@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "p51mustang666",
+  "repo": "container-q1y16fk",
+  "name": "p51mustang666",
+  "email": "P51mustang666@gmail.com",
+}
